@@ -26,7 +26,6 @@ LIMIT 2
 
 
 
-
 USER STORY 2 - As a customer, Annie would like the App to show personalised recommendations based on what other similar customers are buying. 
 
 // Load Product Data
@@ -58,7 +57,6 @@ AND n1.country=rec.country
 AND rec.inventory > 0
 RETURN rec.name AS Recommendation, rec.price AS Price ,COUNT(*) AS score ORDER BY score DESC
 LIMIT 2
-
 
 
 
@@ -98,7 +96,3 @@ MATCH (n2:Product),(n1:Customer)
 MATCH (n1)-[:VIEWED]->(n2)
 RETURN n2.name AS Product_Name, COUNT(*) AS views, n2.price AS Actual_Price, n2.discountedprice AS Discounted_Price
 ORDER BY views DESC LIMIT 3
-
-
-
-
