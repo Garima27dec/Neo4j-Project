@@ -15,6 +15,9 @@ We have the following user stories that articulate how our work will deliver val
 •	The customer Nicola would like to see some product discounts /offers based on her recent likes and views on the App.
 
 
+Descriptions of task with all interactions between actor and database:
+![alt text]("C:\Users\garim\Desktop\Picture1.png")
+
 Data Source for User Story 1: BooksData.json
 
 
