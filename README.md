@@ -34,3 +34,4 @@ We have the following user stories that articulate how our work will deliver val
 
 
 *Data Source for User Story 3*: https://www.kaggle.com/retailrocket/ecommerce-dataset?select=events.csv
+; [Data Sampling for User Story 3 using R](https://github.com/Garima27dec/Neo4j-Project/blob/main/DataSampling(likesandviews).R)
