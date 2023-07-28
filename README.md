@@ -16,7 +16,8 @@ We have the following user stories that articulate how our work will deliver val
 
 
 Descriptions of task with all interactions between actor and database:
-<img src="C:/Users/garim/Desktop/Picture1.png" alt="Alt text" title="Optional title">
+![image](https://github.com/Garima27dec/Neo4j-Project/assets/99138272/bddee0ad-dd60-4fbe-9223-731c31ac93db)
+
 
 
 Data Source for User Story 1: BooksData.json
