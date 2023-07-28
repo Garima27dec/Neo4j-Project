@@ -16,7 +16,7 @@ We have the following user stories that articulate how our work will deliver val
 
 
 Descriptions of task with all interactions between actor and database:
-<img src="C:\Users\garim\Desktop\Picture1.png" alt="Alt text" title="Optional title">
+<img src="C:/Users/garim/Desktop/Picture1.png" alt="Alt text" title="Optional title">
 
 
 Data Source for User Story 1: BooksData.json
