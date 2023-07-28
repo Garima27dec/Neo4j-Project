@@ -16,7 +16,8 @@ We have the following user stories that articulate how our work will deliver val
 
 
 Descriptions of task with all interactions between actor and database:
-![image](https://github.com/Garima27dec/Neo4j-Project/assets/99138272/bddee0ad-dd60-4fbe-9223-731c31ac93db)
+![image](https://github.com/Garima27dec/Neo4j-Project/assets/99138272/653fffbe-d300-4959-8aa2-4880e8b81f47)
+
 
 
 
