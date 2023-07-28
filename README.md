@@ -15,17 +15,19 @@ We have the following user stories that articulate how our work will deliver val
 •	The customer Nicola would like to see some product discounts /offers based on her recent likes and views on the App.
 
 
-Command lines to reproduce execution: [Product Recommendation & Promotion.txt](https://github.com/Garima27dec/Neo4j-Project/blob/main/Product%20Recommendation%20%26%20Promotion.txt)
+**Command lines to reproduce execution:** [Product Recommendation & Promotion.txt](https://github.com/Garima27dec/Neo4j-Project/blob/main/Product%20Recommendation%20%26%20Promotion.txt)
 
 
-Data Flow:
+**Data Flow:**
+
+
 ![image](https://github.com/Garima27dec/Neo4j-Project/assets/99138272/63c320e2-7e39-471e-b479-7c5411fc2c0f)
 
 
-Data Source for User Story 1: [BooksData.json](https://github.com/Garima27dec/Neo4j-Project/blob/main/BooksData.json)
+*Data Source for User Story 1*: [BooksData.json](https://github.com/Garima27dec/Neo4j-Project/blob/main/BooksData.json)
 
 
-Data Source for User Story 2: [OrdersData.csv](https://github.com/Garima27dec/Neo4j-Project/blob/main/OrdersData.csv), [customers.csv](https://github.com/Garima27dec/Neo4j-Project/blob/main/customers.csv), [products.csv](https://github.com/Garima27dec/Neo4j-Project/blob/main/products.csv)
+*Data Source for User Story 2*: [OrdersData.csv](https://github.com/Garima27dec/Neo4j-Project/blob/main/OrdersData.csv), [customers.csv](https://github.com/Garima27dec/Neo4j-Project/blob/main/customers.csv), [products.csv](https://github.com/Garima27dec/Neo4j-Project/blob/main/products.csv)
 
 
-Data Source for User Story 3: https://www.kaggle.com/retailrocket/ecommerce-dataset?select=events.csv
+*Data Source for User Story 3*: https://www.kaggle.com/retailrocket/ecommerce-dataset?select=events.csv
