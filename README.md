@@ -18,6 +18,9 @@ We have the following user stories that articulate how our work will deliver val
 **Command lines to reproduce execution:** [Product Recommendation & Promotion.txt](https://github.com/Garima27dec/Neo4j-Project/blob/main/Product%20Recommendation%20%26%20Promotion.txt)
 
 
+*The command lines are written in Cypher, Neo4j's graph query language that lets you retrieve data from the graph. These queries can be run in the Neo4j desktop application.*
+
+
 **Data Flow:**
 
 
