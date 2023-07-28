@@ -19,7 +19,7 @@ Descriptions of task with all interactions between actor and database:
 ![image](https://github.com/Garima27dec/Neo4j-Project/assets/99138272/653fffbe-d300-4959-8aa2-4880e8b81f47)
 
 
-
+Command lines to reproduce execution: [Product Recommendation & Promotion.txt](https://github.com/Garima27dec/Neo4j-Project/blob/main/Product%20Recommendation%20%26%20Promotion.txt)
 
 Data Source for User Story 1: BooksData.json
 
