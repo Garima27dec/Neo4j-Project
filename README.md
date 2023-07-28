@@ -21,7 +21,7 @@ We have the following user stories that articulate how our work will deliver val
 **Data Flow:**
 
 
-![image](https://github.com/Garima27dec/Neo4j-Project/assets/99138272/63c320e2-7e39-471e-b479-7c5411fc2c0f)
+![image](https://github.com/Garima27dec/Neo4j-Project/assets/99138272/e593cfde-51df-4043-bcc9-42db067933a2)
 
 
 *Data Source for User Story 1*: [BooksData.json](https://github.com/Garima27dec/Neo4j-Project/blob/main/BooksData.json)
