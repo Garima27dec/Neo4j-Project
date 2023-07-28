@@ -1,3 +1,5 @@
+**The command lines are written in Cypher, Neo4j's graph query language that lets you retrieve data from the graph. These queries can be run in the Neo4j desktop application.**
+
 USER STORY 1 - As a customer, Thomas wants relevant book recommendations whenever he buys a book from the App. 
 
 //Load JSON - Books Data
